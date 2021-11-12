@@ -1,0 +1,64 @@
+h1,h2,h3,h4{
+    color: darkgreen;
+}
+
+h1{
+
+    text-align: center;
+    background-color: burlywood ;
+    color: blue;
+    font-family: sans-serif;
+}
+
+h2{
+    font-size: 40px;
+    font-family: sans-serif;
+}
+h3{
+    font-size: 30px;
+    font-family: sans-serif;
+}
+h4{
+    font-size: 20px;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+p{
+    font-size: 20px;
+    font-family: sans-serif;
+    line-height: 1.5;
+}
+
+li {
+    font-family: sans-serif;
+    font-size: 18px;
+}
+ 
+#author {
+    font-family: sans-serif;
+    font-style: italic;
+}
+
+.text-adjust{
+    font-size: 15px;
+    font-weight: bold;
+    font-style: italic;
+
+}
+
+aside {
+    background-color: burlywood;
+    border-top: 5px solid #1098ad;
+    border-bottom: 5px solid #1098ad;
+}
+
+article p:last-child {
+    color: blueviolet;
+}
+a:hover{
+    color: rgb(109, 94, 83);
+    font-weight: bold;
+    
+}
